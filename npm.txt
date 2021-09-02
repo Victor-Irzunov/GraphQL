@@ -1,0 +1,18 @@
+npm install express-graphql graphql
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+files.exclude (убрал node_modules, package-look.json)
